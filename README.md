@@ -58,9 +58,6 @@ Pascal VOC形式のバウンディングボックスへ変換する際のオフ�
 * --source_image<br>
 \<image\>タグに書き込む内容<br>
 デフォルト：Unknown
-* --image_depth<br>
-\<depth\>タグに書き込む内容<br>
-デフォルト：3
 * --segmented<br>
 \<segmented\>タグに書き込む内容<br>
 デフォルト：0
