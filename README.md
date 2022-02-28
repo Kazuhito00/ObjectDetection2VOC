@@ -28,7 +28,7 @@ Object Detectionのモデル選択<br>
 物体検出時のラベル名のテキストを格納したパス<br>
 デフォルト：Detector/yolox/coco_classes.txt
 * --target_id<br>
-トラッキング対象のクラスIDを指定<br>複数指定する場合はカンマ区切りで指定　※Noneの場合は全てを対象とする<br>
+対象のクラスIDを指定<br>複数指定する場合はカンマ区切りで指定　※Noneの場合は全てを対象とする<br>
 例：--target_id=1<br>例：--target_id=1,3<br>
 デフォルト：None
 * --use_gpu<br>
